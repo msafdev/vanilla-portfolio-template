@@ -168,6 +168,11 @@ aside {
   background-color: #1e1e1e;
 }
 
+.break {
+  display: block;
+  height: 12px;
+}
+
 article {
   display: flex;
   flex-direction: column;
